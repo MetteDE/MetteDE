@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, it's Mathis</h1>
+<h1 align="center">Hi 👋, it's me!</h1>
 <h3 align="center">A 16 year old student from Germany.</h3>
 
 <h3 align="center">Discord: Mette#3003</h3>
