@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's me!</h1>
-<h3 align="center">A 16 year old student from Germany.</h3>
+<h3 align="center">A 17 year old student from Germany.</h3>
 
 <h3 align="center"> Discord: <a href="https://discord.com/users/289845084273246219">Mette#3003</a></h3>
 
