@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, it's me!</h1>
-<h3 align="center">A 17 year old student from Germany.</h3>
+<div align="center">
+  <h1>Mette</h1>
 
-<h3 align="center"> Discord: <a href="https://discord.com/users/289845084273246219">Mette#3003</a></h3>
+  <a href="https://discord.com/users/289845084273246219"><img alt="Discord" src="https://img.shields.io/badge/Mette%233003-7289DA?style=flat&logo=discord&logoColor=white%22" /></a>
+  <a href="https://twitter.com/ririxichan"><img alt="Twitter" src="https://img.shields.io/badge/ririxichan-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/ririxi"><img alt="Telegram" src="https://img.shields.io/badge/@ririxi-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
 
-<h3 align="center">Languages and Tools:</h3><br>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </p>
-<br><br><br>
-<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mettede&show_icons=true&locale=en&layout=compact" alt="mettede" /></p>
-<br><br><br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mettede&" alt="mettede" /></p>
+  <b>backend developer</b>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,vue,nodejs,deno,graphql,mongodb,prisma,docker,markdown,cloudflare,tailwindcss,git,vscode" />
+  <br />
+  <br />
+</div>
