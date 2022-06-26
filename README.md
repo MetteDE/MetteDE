@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">Hey 👋, I am Mathis</h1>
 
-<h3 align="center">My name is Mathis and I am a fulltime student from Germany!</h3>
+<h3 align="center">A fulltime student from germany, who loves to learn about new stuff!</h3>
 
 <div align="center">
   <a href="https://discord.com/users/289845084273246219" target="_blank">
